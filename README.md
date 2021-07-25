@@ -2,13 +2,13 @@
 This is a readability calculator for Java.
 
 You're able to calculate the readability of a text using several algorithms:
- - Flesch-Kincaid  https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
- - Coleman-Liau    https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index
- - SMOG  https://en.wikipedia.org/wiki/SMOG
- - Automated Readability Index  https://en.wikipedia.org/wiki/Automated_readability_index
+ - [Flesch-Kincaid](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)
+ - [Coleman-Liau](https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index)
+ - [SMOG](https://en.wikipedia.org/wiki/SMOG)  
+ - [Automated Readability Index](https://en.wikipedia.org/wiki/Automated_readability_index)
  
  # Example:
- ```
+ ```java
  import TextAnalyzer;
  String textAsString = "This is the front page of the Simple English Wikipedia. Wikipedias are places where people work together to write encyclopedias in different languages. 
  We use Simple English words and grammar here. The Simple English Wikipedia is for everyone! That includes children and adults who are learning English. 
